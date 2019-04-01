@@ -1,3 +1,25 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "Beguiler",
+				"abbreviation": "Beguiler",
+				"full": "Xanathar's Lost Notes: Beguiler",
+				"authors": [
+					"Ruty Rutenberg"
+				],
+				"convertedBy": [
+					"SeenRender"
+				],
+				"version": "1.0",
+				"url": "https://www.dmsguild.com/product/228484/Xanathars-Lost-Notes-to-Everything-Else",
+				"targetSchema": "1.0.0"
+			}
+		],
+		"dateAdded": 1546024328
+	},
+	"subclassTitle": "Arcane Tradition",
+	"subclass": [
 		{
 			"name": "Beguiler",
 			"shortName": "Beguiler",
