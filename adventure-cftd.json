@@ -19,9 +19,34 @@
 		"dateAdded": 0,
 		"dateLastModified": 0
 	},
-	{
-	"data": [
+	"adventure": [
 		{
+			"name": "Call from the Deep",
+			"id": "CftD",
+			"source": "DM's Guild",
+			"contents": [
+				{
+					"name": "The Adventure",
+					"headers": [
+						"Dramatis Personae",
+						"Story Overview"
+					]
+				}
+			],
+			"level": {
+				"start": 1,
+				"end": 17
+			},
+			"published": "2018-07-05",
+			"storyline": "The End"
+		}
+	],
+	"adventureData": [
+		{
+			"id": "CftD",
+			"source": "CftD",
+			"data": [
+				{
 			"type": "section",
 			"name": "Call from the Deep",
 			"entries": [
@@ -175,7 +200,7 @@
 								],
 								[
 									"Luthra ‘Powder’ Lingenhall",
-									"Gnome inventor and swashbuckler of Tentrix’s Floating Lair"
+									"Gnome inventor and swashbuckler of Tentrix’s Floating Lair",
 									"Chapter 4 (\"Driftwood Docks\")"
 								],
 								[
@@ -16512,4 +16537,6 @@
 			]
 		}
 	]
+}
+]
 }
